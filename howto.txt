@@ -1,0 +1,4 @@
+------------------------------------------------Order of running php scripts--------------------------------------
+1.Run createdb.php first inorder to create database in my phpadmin
+2.Run createtable.php to create the client table in the database created
+NOTE:make sure apache and mysql services are running via the xampp control panel
